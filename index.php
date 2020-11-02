@@ -8,6 +8,9 @@
 
 <div class="container">
   <div class="row">
+    <div class="col" style="padding-top: 100px;">
+      <h1>JAYSON BALATONG</h1>
+    </div>
     <div class="col">
       <form class="" action="" method="post" style="padding-left: 100px;">
           <h3>CALCULATOR</h3>
@@ -95,7 +98,7 @@
 <style media="screen">
   .col{
     float: left;
-    width: 50%;
+    width: 33.33%;
   }
   .row:after {
   content: "";
